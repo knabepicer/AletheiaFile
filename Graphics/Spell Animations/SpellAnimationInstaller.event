@@ -1,0 +1,16 @@
+// Spells
+//#define Saggitae_index 0x48 //yes i know it's misspelled lol
+
+
+#include "CSA System FE8/Master Spell Animation Installer.event"
+
+// "safe" spell anims (work)
+//#include "Event/Saggitae.event"
+
+
+/*
+credits
+
+*/
+
+

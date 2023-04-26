@@ -1,0 +1,43 @@
+#define Serini 0x01
+#define Zoey 0x02
+#define Theo 0x03
+#define Tyn 0x04
+#define Kuri 0x05
+#define Rayse 0x06
+#define Kalcass 0x07
+#define Wemble 0x08
+#define Romeo 0x09
+#define Michelle 0x0A
+#define Dobrilo 0x0B
+#define Abigail 0x0C
+#define Filna 0x0D
+#define Emilia 0x0E
+#define Indio 0x0F
+#define Eimhir 0x10
+#define Javeda 0x11
+#define Ilta 0x12
+#define Tiche 0x13
+#define Marshall 0x15
+#define Oswald 0x16
+#define NahulC4 0x17
+#define Shuyev 0x18
+#define Kashil 0x19
+#define Tabitha 0x1A
+#define Harald 0x1B
+#define Kessler 0x1C
+#define Fabian 0x1D
+#define Roppola 0x24
+
+//bosses
+
+
+
+//generic enemies
+
+//npcs/misc
+
+
+
+
+// TalkAI Defs
+

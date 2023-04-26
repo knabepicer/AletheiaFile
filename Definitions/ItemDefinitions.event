@@ -1,0 +1,5 @@
+#define IronSword 0x01
+#define SlimSword 0x02
+#define SteelSword 0x03
+#define SilverSword 0x04
+
