@@ -10,16 +10,16 @@ mul		r4,r1
 ldr		r0,Growth_Options
 mov		r1,#0x1		@ is fixed mode even available
 tst		r0,r1
-beq		NormalGrowths
+mov r8, r8
 mov		r1,#0x8		@ if it is on, does fixed mode affect enemy autolevelling
 tst		r0,r1
-beq		NormalGrowths
+mov r8, r8
 lsr		r0,#0x10	@ event id
 ldr		r1,Check_Event_ID
 mov		r14,r1
 .short	0xF800
 cmp		r0,#0x0
-beq		NormalGrowths
+mov r8, r8
 
 @Fixed growths mode
 mov		r0,#0x0
