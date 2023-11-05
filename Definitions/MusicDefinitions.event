@@ -1,6 +1,6 @@
 // New
 
-#define Sonic4-MetalSonic 0xBB
+#define MetalSonic 0xBB
 #define RomancingSaGaPrologue 0x02
 #define Prologue 0x03
 #define TheBeginning 0x04
@@ -10,14 +10,14 @@
 #define RayofHope 0x08
 #define FarewelltoBallade 0x09
 #define GrandiaBattle3 0x0A
-#define 4MinutesBeforeDeathVariation 0x0B
+#define 4MinutesBeforeDeath 0x0B
 #define CrisisCity 0x0C
 #define Truth,Despair,andHope 0x0D
 #define LandofPromise 0x0E
 #define 1730Battlefield 0x0F
 #define LightandDark(FE4) 0x10
 #define RooftopRun 0x12
-#define SearchingtheEnemy 0x11
+#define SearchingTheEnemy 0x11
 #define SonicAdvance3Boss 0x13
 #define ElHazardBattle 0x14
 #define IsaachArmy 0x15
@@ -51,7 +51,7 @@
 #define Comrades 0x30
 #define Victory 0x31
 #define IntotheShadowofVictory 0x32
-#define PreparationsFE11 0x34
+#define FE11Preparations 0x34
 #define WiiShoppingChannel 0x35
 #define SearchIntheMidst 0x36
 #define Bonds 0x37
@@ -76,8 +76,8 @@
 #define MMZXAHighway 0x62
 #define DesertCommando 0x63
 #define MizzterBlizzard 0x64
-#define Man-to-ManCombat 0x92
-#define Menace-BWS 0x93
+#define ManToManCombat 0x92
+#define Menace 0x93
 #define DesperateFight 0x94
 #define AncientOath 0xA8
 #define KnightsofRazelia 0xA9
@@ -85,10 +85,10 @@
 #define AdventuresEnd 0xC0
 #define FireSharkStage4 0xB2
 #define CrossExaminationModerato2016 0xAE
-#define HotlineofFate 0xC1
+#define HotlineOfFate 0xC1
 #define TRS-Duel 0xC2
 #define SkyFortressAct3 0xC3
-#define AttackoftheKillerQueen 0xC4
+#define AttackOfTheKillerQueen 0xC4
 
 
 
