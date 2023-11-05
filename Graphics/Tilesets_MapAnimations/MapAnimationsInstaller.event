@@ -1,0 +1,2 @@
+//EventPointerTable(0x54, FlasubanVillageTileAnimations)
+#define tilesetAnimation(speed, size, pointer)    "BYTE speed 0; SHORT size; POIN pointer"

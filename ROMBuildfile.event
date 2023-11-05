@@ -3,8 +3,7 @@
     #include "CustomDefinitions.event"
 //PROTECT $25224
     ORG FreeSpace
-
-    #include "repointedTextTable.event"
+    #include "Tables/Repointed/_MasterRepointer.event"
 
     //Text first for Text ID definitions
     #include "Text/InstallTextData.event"
@@ -14,18 +13,24 @@
     #include "Tables/TableInstaller.event"
     MESSAGE Used table space ends at currentOffset
 
+    #include "Graphics/MasterGraphicsInstaller.event"
+    MESSAGE Used graphics space ends at currentOffset
+
+    //Music
+    #include "Music/Music Installer.event"
+    MESSAGE Music data ends at CURRENTOFFSET
+
     //Engine Hacks
     #include "EngineHacks/_MasterHackInstaller.event"
     MESSAGE Used hax space ends at currentOffset
 
-	#ifdef USE_TEST_MAP
     //Events
-    #include "Events/Release_map.event"
-    #include "Events/WorldMapEvents.event"
+    #include "Events/Events Installer.event"
+    MESSAGE Used event space ends at currentOffset
 
     //Maps
     #include "Maps/MasterMapInstaller.event"
-    #endif // USE_TEST_MAP
+    
 	
 	ASSERT (FreeSpaceEnd - currentOffset) // So that you don't overwrite vanilla tables if using default freespace
 	

@@ -1,0 +1,4 @@
+// format: BYTE Class1 Class2 Class3, etc
+//ALIGN 4
+//KnightProofClasses:
+//BYTE SwordKnight 0x00

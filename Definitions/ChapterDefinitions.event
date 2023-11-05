@@ -1,0 +1,141 @@
+// ChapterID
+#define AllChapters 0xFF
+#define PreChapter1 0x2C
+#define Chapter1 0x00
+#define Chapter2 0x01
+#define Chapter3 0x02
+#define Chapter4 0x03
+#define Chapter4x 0x04
+#define Chapter5 0x06
+#define Chapter6 0x07
+#define Chapter6Castle 0x3B
+#define Interlude1 0x40
+#define Chapter7 0x08
+#define Chapter8 0x09
+#define Chapter9 0x0A
+#define Chapter9RoadMeeting 0x45
+#define Chapter10 0x0B
+#define Chapter10Escape 0x3C
+#define Chapter10Bedrooms 0x3F
+#define Interlude2 0x0C
+#define Chapter11 0x0D
+#define Chapter12 0x0E
+#define Chapter13 0x0F
+#define Chapter14 0x10
+
+// MapChangesID
+
+#define Chapter1MapChanges 0x06
+#define PreChapter1MapChanges 0xA1
+#define Chapter6CastleMapChanges 0x0
+#define Chapter9RoadMeetingMapChanges 0x0
+#define Chapter10EscapeMapChanges 0x3C
+#define Chapter10BedroomsMapChanges 0x0
+#define Chapter2MapChanges 0x09
+#define Chapter3MapChanges 0x0C
+#define Chapter4MapChanges 0x13
+#define Chapter4xMapChanges 0x16
+#define Chapter5MapChanges 0x20
+#define Chapter6MapChanges 0x23
+#define Interlude1MapChanges 0x0
+#define Chapter7MapChanges 0x26
+#define Chapter8MapChanges 0x29
+#define Chapter9MapChanges 0x2C
+#define Chapter10MapChanges 0x32
+#define Interlude2MapChanges 0x36
+#define Chapter11MapChanges 0x3A
+#define Chapter12MapChanges 0x40
+#define Chapter13MapChanges 0x46
+#define Chapter14MapChanges 0x4A
+
+// MapID
+
+#define Chapter1Map 0x04
+#define PreChapter1Map 0xA0
+#define Chapter6CastleMap 0xCA
+#define Chapter9RoadMeetingMap 0xDD
+#define Chapter10EscapeMap 0x3C
+#define Chapter10BedroomsMap 0xD6
+#define Chapter2Map 0x08
+#define Chapter3Map 0x0B
+#define Chapter4Map 0x11
+#define Chapter4xMap 0x15
+#define Chapter5Map 0x1F
+#define Chapter6Map 0x22
+#define Interlude1Map 0xD7
+#define Chapter7Map 0x25
+#define Chapter8Map 0x28
+#define Chapter9Map 0x2B
+#define Chapter10Map 0x31
+#define Interlude2Map 0x35
+#define Chapter11Map 0x39
+#define Chapter12Map 0x3F
+#define Chapter13Map 0x45
+#define Chapter14Map 0x49
+
+// EventsID
+
+#define Chapter1Events 0x07
+#define PreChapter1Events 0xC5
+#define Chapter2Events 0x0A
+#define Chapter3Events 0x0D
+#define Chapter4Events 0x14
+#define Chapter4xEvents 0x17
+#define Chapter5Events 0x21
+#define Chapter6Events 0x24
+#define Chapter6CastleEvents 0xCB
+#define Interlude1Events 0xC2
+#define Chapter7Events 0x27
+#define Chapter8Events 0x2A
+#define Chapter9Events 0x2D
+#define Chapter9RoadMeetingEvents 0xC5
+#define Chapter10Events 0x33
+#define Chapter10EscapeEvents 0xC5
+#define Chapter10BedroomsEvents 0xC5
+#define Interlude2Events 0x37
+#define Chapter11Events 0x3B
+#define Chapter12Events 0x41
+#define Chapter13Events 0x47
+#define Chapter14Events 0x4B
+
+
+
+// ObjectType 
+
+#define FieldsObj 0x01
+#define VillageObj 0x0E
+#define FortObj 0x3C
+#define SnowCastleObj 0x88
+#define StrongholdObj 0x04
+#define CastleObj 0x18
+
+// PaletteID
+
+#define GreenFieldsPalette 0x38
+#define GreenFieldsNightPalette 0x5B
+#define GrayVillagePalette 0x72
+#define GreyVillagePalette 0x72
+#define GrayFortPalette 0x68
+#define GreyFortPalette 0x68
+#define SunsetVillagePalette 0xEA
+#define SnowFieldsPalette 0x02
+#define SnowCastlePalette 0x89
+#define SnowStrongholdPalette 0x05
+#define BlueCastlePalette 0x48
+
+
+// TileConfig
+
+#define FieldsConfig 0x03
+#define VillageConfig 0x10
+#define FortConfig 0x3E
+#define SnowCastleConfig 0x8A
+#define StrongholdConfig 0x07
+#define CastleConfig 0x1A
+
+// TileAnimations
+
+#define FieldsAnim 0x05
+#define VillageAnim 0x12
+#define StrongholdAnim 0x06
+#define CastleAnim 0x1C

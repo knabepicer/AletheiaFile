@@ -1,0 +1,20 @@
+#define ItemIconSlot(slot,path) "ORG 0x5926F4+(0x80*slot); #incext Png2Dmp path"
+
+//PUSH
+//ORG 0x35B0 //extends item icons?
+//BYTE 0xFE 0x01 0x00 0x01 0x90 0x6E 0x02 0x02
+//POP
+
+PUSH
+ORG $36B4
+POIN ItemIconSheet
+ORG $3788
+POIN ItemIconSheet
+POP
+
+ALIGN 4
+ItemIconSheet:
+#incbin "Dmp/IconSheet1.dmp"
+
+//ALIGN 4
+//#include "ExternalIconSheets/ExternalSheetInstaller.event"

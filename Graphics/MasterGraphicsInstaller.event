@@ -1,0 +1,24 @@
+//#include "Battle Animations/Animations Definitions.event"
+//#include "Battle Animations/MasterAnimationInstaller.event"
+//#include "Map Sprites/MasterMapSpriteInstaller.event"
+//#include "Map Sprites/Map_Sprite_Installer.event"
+//#include "Tilesets_MapAnimations/Tileset_and_Animations_Installer.event"
+//#include "Spell Animations/SpellAnimationInstaller.event"
+//#include "Portraits/PortraitInstaller.event"
+//#include "Palettes/Clear/Clear Old Palettes.event"
+//#include "Palettes/Palette Setup.event"
+//#include "Class Cards/MasterClassCardInstaller.event"
+//#include "ItemIcons/MasterItemIconsInstaller.event"
+//#include "StatusScreen/Installer.event"
+//#include "Stat Screen/Installer.event"
+//#include "Backgrounds/BackgroundInstaller.event"
+//#include "TitleScreen/TitleScreen.event"
+//#include "BattleFrame/BattleFrameInstaller.event"
+//#include "Menu Tiles/Installer.event"
+//#include "TitleMenuBoB/TitleMenu.event"
+//#include "EndingMenuTiles/Installer.event"
+
+PUSH
+ORG $5A2DDC
+BYTE $55 $53 $FB $7F $ED $7F $E0 $7F $20 $7F $40 $7E $E0 $7D $80 $7D $20 $7D $E0 $70 $C1 $64 $A0 $60 $80 $5C $55 $53 $55 $53 $55 $53
+POP
