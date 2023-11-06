@@ -44,6 +44,7 @@
 #define Bishop_F 0x2C
 #define Shaman 0x2D
 #define Conjurer 0x2D
+#define DarkMage 0x2D
 #define Shaman_F 0x2E
 #define Conjurer_F 0x2E
 #define Druid 0x2F
