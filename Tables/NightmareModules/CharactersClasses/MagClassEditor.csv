@@ -1,257 +1,257 @@
-INLINE MagClassTable,Base Magic,Magic Growth,Magic Cap,Magic Promotion Bonus
-None,0,0,20,0
-Ephraim Lord,1,10,20,0
-Eirika Lord,1,25,20,0
-Ephraim Master Lord,2,10,24,1
-Eirika Master Lord,2,20,25,2
-Cavalier,0,0,20,0
-Cavalier (F),0,0,20,0
-Paladin,2,10,24,2
-Paladin (F),2,10,24,2
-Armour Knight,0,0,20,0
-Armour Knight (F),0,0,20,0
-General,0,0,22,0
-General (F),0,0,22,0
-Thief,1,5,20,0
-Manakete,0,0,20,0
-Mercenary,0,0,20,0
-Mercenary (F),0,0,20,0
-Hero,0,0,23,0
-Hero (F),0,0,23,0
-Myrmidon,1,15,20,0
-Myrmidon (F),1,15,20,0
-Swordmaster,2,10,23,1
-Swordmaster (F),2,10,23,1
-Assassin,1,0,22,0
-Assassin (F),1,0,22,0
-Archer,0,0,20,0
-Archer (F),0,0,20,0
-Sniper,1,10,24,1
-Sniper (F),1,10,24,1
-Ranger,0,0,22,0
-Ranger (F),0,0,22,0
-Wyvern Rider,0,0,20,0
-Wyvern Rider (F),0,0,20,0
-Wyvern Lord,0,0,21,0
-Wyvern Lord (F),0,0,21,0
-Wyvern Knight,1,5,24,1
-Wyvern Knight (F),1,5,24,1
-Mage,1,55,20,0
-Mage (F),1,55,20,0
-Sage,5,45,28,1
-Sage (F),4,45,30,1
-Mage Knight,4,40,24,2
-Mage Knight (F),3,40,25,2
-Bishop,4,35,25,2
-Bishop (F),4,35,25,1
-Shaman,2,50,20,0
-Shaman (F),3,45,20,0
-Druid,6,55,29,0
-Druid (F),7,55,29,0
-Summoner,5,50,27,0
-Summoner (F),5,50,27,0
-Rogue,3,25,26,3
-Gorgon Egg,0,0,30,0
-Great Knight,0,0,21,0
-Great Knight (F),0,0,21,0
-Recruit (2),0,0,20,0
-Journeyman (3),0,0,22,0
-Pupil (3),5,55,29,2
-Recruit (3),0,0,23,0
-Manakete,2,0,20,0
-Manakete (F),2,0,20,0
-Journeyman (1),0,0,20,0
-Pupil (1),1,55,20,0
-Fighter,0,0,20,0
-Warrior,0,0,21,0
-Brigand,0,0,20,0
-Pirate,0,0,20,0
-Berserker,0,0,21,0
-Monk,1,30,20,0
-Priest,1,30,20,0
-Bard,1,45,20,0
-Recruit (1),0,0,20,0
-Pegasus Knight,1,10,20,0
-Falcon Knight,3,30,23,3
-Cleric,1,30,20,0
-Troubadour,1,25,20,0
-Valkyrie,4,35,25,2
-Dancer,1,45,20,0
-Soldier,0,0,20,0
-Necromancer,9,55,30,0
-Fleet,0,0,20,0
-Phantom,0,0,20,0
-Revenant,0,0,20,0
-Entombed,0,0,21,0
-Bonewalker,0,0,20,0
-Bonewalker (Bow),0,0,20,0
-Wight,0,0,21,0
-Wight (Bow),0,0,21,0
-Bael,0,0,20,0
-Elder Bael,0,0,22,0
-Cyclops,0,0,21,0
-Mauthe Doog,0,0,20,0
-Gwyllgi,0,0,23,0
-Tarvos,0,0,20,0
-Maelduin,0,0,21,0
-Mogall,2,45,20,0
-Arch Mogall,6,55,29,0
-Gorgon,8,60,29,0
-Gorgon Egg,0,0,30,0
-Gargoyle,0,0,20,0
-Deathgoyle,0,0,22,0
-Dracozombie,1,30,50,0
-Demon King,23,40,50,0
-Archer on Ballista,0,0,20,0
-Archer on Iron Ballista,0,0,20,0
-Archer on Killer Ballista,0,0,20,0
-Ballista,0,0,20,0
-Iron Ballista,0,0,20,0
-Killer Ballista,0,0,20,0
-Civilian,0,0,20,0
-Civilian (F),0,0,20,0
-Civilian,0,0,20,0
-Civilian (F),0,0,20,0
-Civilian,0,0,20,0
-Civilian (F),0,0,20,0
-Peer,0,0,20,0
-Queen,0,0,20,0
-Prince,0,0,20,0
-Queen,0,0,20,0
-(empty),0,0,20,0
-Fallen Prince,0,0,20,0
-Tent,0,0,20,0
-Pontifex,0,0,20,0
-Dead Peer,0,0,20,0
-Cyclops,0,0,21,0
-Elder Bael,0,0,22,0
-Journeyman (2),0,0,20,0
-Pupil (2),2,55,20,1
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
+0xB33B5C,Base Magic,Magic Growth,Magic Cap,Magic Promotion Bonus
+0,0,0,20,0
+01 Princess,1,10,20,0
+02 Princess,0,25,0,0
+03 Knight Lord,2,10,24,1
+04 Pegasus Lord,2,20,25,2
+05 Lance Knight,0,0,10,0
+06 Sword Knight,3,25,10,0
+07 [_B][_r][_o][_n][_z][_e] [_K][_n]i[_g][_h][_t],3,25,20,3
+08 Silver Knight,2,10,22,2
+09 Lance Armor,0,5,10,0
+0A Axe Armor,0,5,10,0
+0B General,1,15,20,1
+0C Gold Knight,6,0,25,5
+0D Thief,1,10,10,0
+0E Soldier,0,5,10,0
+0F Mercenary,1,5,10,0
+10 Mercenary,0,0,20,0
+11 Champion,3,20,15,0
+12 Champion,0,0,15,0
+13 Myrmidon,1,30,15,0
+14 Myrmidon,3,30,15,0
+15 Swordmaster,4,25,24,1
+16 Swordmaster,6,25,23,3
+17 Grassrunner,1,0,15,0
+18 Grassrunner,1,0,22,0
+19 Archer,0,7,5,0
+1A Archer,0,0,5,0
+1B Sniper,0,10,15,0
+1C Sniper,1,10,15,1
+1D Ranger,3,9,15,2
+1E Ranger,0,0,15,0
+1F Wyvern Rider,0,5,20,0
+20 Knight,0,0,20,0
+21 Wyvern Lord,1,5,10,0
+22 Knight,0,0,10,0
+23 Saint,10,50,30,3
+24 Marauder,1,5,10,1
+25 Mage,4,40,20,0
+26 Mage,1,55,20,0
+27 Sage,8,45,28,1
+28 Sage,8,45,30,1
+29 Mage Knight,6,40,26,1
+2A Mage Knight,3,40,25,2
+2B Bishop,6,30,23,2
+2C Bishop,7,40,24,1
+2D Conjurer,5,60,20,0
+2E Conjurer,5,60,20,0
+2F Sorcerer,9,55,29,0
+30 Sorcerer,7,55,29,0
+31 War Monk,5,50,23,1
+32 War Cleric,5,50,23,0
+33 Rogue,3,10,21,3
+34 Gorgon Egg,0,0,30,0
+35 Iron Knight,4,10,20,4
+36 Warrior,0,0,10,0
+37 Knight,0,0,26,0
+38 Armor,4,0,20,0
+39 Knight,3,55,23,2
+3A Halberdier,1,10,20,3
+3B Manakete,2,0,20,0
+3C Manakete,2,0,20,0
+3D Knight,5,0,20,0
+3E Sword Armor,1,55,20,0
+3F Fighter,0,5,10,0
+40 Warrior,0,5,15,0
+41 Brigand,0,10,10,0
+42 Pirate,0,12,15,0
+43 Berserker,0,10,15,0
+44 Monk,4,30,20,0
+45 Priest,6,50,20,0
+46 Bard,1,45,20,0
+47 Sword Armor,0,10,15,0
+48 [_P][_e][_g][_a][_s][_u][_s] [_K][_n]i[_g][_h][_t],3,30,20,0
+49 Falcoknight,3,30,23,3
+4A Cleric,6,50,20,0
+4B Troubadour,5,45,15,0
+4C Holy Knight,5,35,20,5
+4D Dancer,1,45,5,0
+4E Soldier,0,5,10,0
+4F Marauder,9,55,30,0
+50 Fleet,0,5,10,0
+51 Phantom,0,0,5,0
+52 Revenant,0,2,5,0
+53 Entombed,0,8,5,0
+54 Bonewalker,0,10,10,0
+55 Bonewalker,0,5,10,0
+56 Wight,0,10,15,0
+57 Wight,0,30,15,0
+58 Bael,0,7,10,0
+59 Elder Bael,0,9,15,0
+5A Cyclops,0,15,7,0
+5B Mauthe Doog,0,20,5,0
+5C Gwyllgi,0,20,15,0
+5D Tarvos,0,10,10,0
+5E Maelduin,2,40,15,0
+5F Mogall,2,45,20,0
+60 Arch Mogall,6,55,29,0
+61 Gorgon,8,60,29,0
+62 Gorgon Egg,0,0,30,0
+63 Gargoyle,0,20,10,0
+64 Deathgoyle,0,20,22,0
+65 Draco Zombie,1,30,50,0
+66 Demon King,23,40,50,0
+67,0,0,20,0
+68,0,0,20,0
+69,0,0,20,0
+6A ,0,0,20,0
+6B ,0,0,20,0
+6C ,0,0,20,0
+6D Civilian,0,0,20,0
+6E Civilian,0,0,20,0
+6F Civilian,0,0,20,0
+70 Civilian,0,0,20,0
+71 Civilian,0,0,20,0
+72 Civilian,0,0,20,0
+73,0,0,20,0
+74 Queen,0,0,20,0
+75,0,0,20,0
+76 Queen,0,0,20,0
+77,0,0,20,0
+78,0,0,20,0
+79,0,0,20,0
+7A Pontifex,0,0,20,0
+7B ,0,0,20,0
+7C Cyclops,0,0,21,0
+7D Elder Bael,0,0,22,0
+7E Ravager,3,10,15,3
+7F Dummy,2,55,20,1
+80 Deserter,1,10,10,0
+81 Hunter,1,10,10,0
+82 Captain,1,10,20,0
+83 Transporter,0,0,0,0
+84 Knight,0,10,10,0
+85 Knight,0,10,15,0
+86 Knight,1,10,20,0
+87 Axe Knight,0,10,10,0
+88 Ballistician,1,10,10,0
+89 Ballistician,1,10,10,0
+8A Knight,1,10,20,0
+8B Knight,0,10,10,0
+8C Knight,0,10,10,0
+8D Knight,3,10,20,3
+8E Knight,2,10,22,0
+8F Knight,6,10,25,0
+90 Thief,1,10,15,0
+91 Knight,3,10,15,0
+92 Knight,1,10,5,0
+93 Knight,0,10,10,0
+94 Lance Knight,1,10,10,0
+95 Knight,1,10,10,0
+96 Brigand,1,10,10,0
+97 Knight,1,10,20,0
+98 Knight,1,10,20,0
+99 Parson,1,20,20,0
+9A Princess,1,10,15,0
+9B Titan,1,10,20,1
+9C Princess,1,10,20,0
+9D Princess,1,10,20,0
+9E Princess,1,10,20,0
+9F Princess,1,10,20,0
+A0 Princess,1,10,20,0
+A1 Princess,1,10,20,0
+A2 Princess,1,10,20,0
+A3 Princess,1,10,20,0
+A4 Princess,1,10,20,0
+A5 Princess,1,10,20,0
+A6 Princess,1,10,20,0
+A7 Princess,1,10,20,0
+A8 Princess,1,10,20,0
+A9 Princess,1,10,20,0
+AA Princess,1,10,20,0
+AB Princess,1,10,20,0
+AC Princess,1,10,20,0
+AD Princess,1,10,20,0
+AE Princess,1,10,20,0
+AF Princess,1,10,20,0
+B0 Princess,1,10,20,0
+B1 Princess,1,10,20,0
+B2 Princess,1,10,20,0
+B3 Princess,1,10,20,0
+B4 Princess,1,10,20,0
+B5 Princess,1,10,20,0
+B6 Princess,1,10,20,0
+B7 Princess,1,10,20,0
+B8 Princess,1,10,20,0
+B9 Princess,1,10,20,0
+BA Princess,1,10,20,0
+BB Princess,1,10,20,0
+BC Princess,1,10,20,0
+BD Princess,1,10,20,0
+BE Princess,1,10,20,0
+BF Princess,1,10,20,0
+C0 Princess,1,10,20,0
+C1 Princess,1,10,20,0
+C2 Princess,1,10,20,0
+C3 Princess,1,10,20,0
+C4 Princess,1,10,20,0
+C5 Princess,1,10,20,0
+C6 Princess,1,10,20,0
+C7 Princess,1,10,20,0
+C8 Princess,1,10,20,0
+C9 Princess,1,10,20,0
+CA Princess,1,10,20,0
+CB Princess,1,10,20,0
+CC Princess,1,10,20,0
+CD Princess,1,10,20,0
+CE Princess,1,10,20,0
+CF Princess,1,10,20,0
+D0 Princess,1,10,20,0
+D1 Princess,1,10,20,0
+D2 Princess,1,10,20,0
+D3 Princess,1,10,20,0
+D4 Princess,1,10,20,0
+D5 Princess,1,10,20,0
+D6 Princess,1,10,20,0
+D7 Princess,1,10,20,0
+D8 Princess,1,10,20,0
+D9 Princess,1,10,20,0
+DA Princess,1,10,20,0
+DB Princess,1,10,20,0
+DC Princess,1,10,20,0
+DD Princess,1,10,20,0
+DE Princess,1,10,20,0
+DF Princess,1,10,20,0
+E0 Princess,1,10,20,0
+E1 Princess,1,10,20,0
+E2 Princess,1,10,20,0
+E3 Princess,1,10,20,0
+E4 Princess,1,10,20,0
+E5 Princess,1,10,20,0
+E6 Princess,1,10,20,0
+E7 Princess,1,10,20,0
+E8 Princess,1,10,20,0
+E9 Princess,1,10,20,0
+EA Princess,1,10,20,0
+EB Princess,1,10,20,0
+EC Princess,1,10,20,0
+ED Princess,1,10,20,0
+EE Princess,1,10,20,0
+EF Princess,1,10,20,0
+F0 Princess,1,10,20,0
+F1 Princess,1,10,20,0
+F2 Princess,1,10,20,0
+F3 Princess,1,10,20,0
+F4 Princess,1,10,20,0
+F5 Princess,1,10,20,0
+F6 Princess,1,10,20,0
+F7 Princess,1,10,20,0
+F8 Princess,1,10,20,0
+F9 Princess,1,10,20,0
+FA Princess,1,10,20,0
+FB Princess,1,10,20,0
+FC Princess,1,10,20,0
+FD Princess,1,10,20,0
+FE Princess,1,10,20,0
+FF ,1,10,20,0

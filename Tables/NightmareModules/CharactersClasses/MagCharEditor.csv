@@ -1,257 +1,257 @@
 INLINE MagCharTable,Base Magic,Magic Growth
-None,0,0
-Eirika,0,25
-Seth,2,10
-Gilliam,0,5
-Franz,1,10
-Moulder,3,40
-Vanessa,2,25
-Ross,0,5
-Neimi,2,15
-Colm,1,10
-Garcia,0,5
-Innes,1,10
-Lute,5,65
-Natasha,1,60
-Cormag,0,5
-Ephraim,0,15
-Forde,1,10
-Kyle,0,10
-Amelia,2,25
-Artur,5,50
-Gerik,0,10
-Tethys,0,5
-Marisa,1,10
-Saleh,11,30
-Ewan,2,45
-L'Arachel,5,50
-Dozla,0,5
-+AC0-0,0,50
-Rennac,3,35
-Duessel,0,5
-Myrrh,2,85
-Knoll,10,50
-Joshua,0,20
-Syrene,4,20
-Tana,2,15
-Lyon,13,50
-Orson,3,10
-Glen,2,0
-Selena,10,40
-Valter,2,10
-Riev,10,45
-Caellach,2,5
-Fado,4,5
-Ismaire,7,15
-Hayden,2,10
-FakeEirika,0,0
-+AC0-0,0,0
 0,0,0
-0,0,0
-0,0,0
-0,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-Lyon's Summon,0,0
-+AC0-0,0,0
-+AC0-0,0,0
-Knoll's Summon,0,0
-Ewan's Summon,0,0
-Lyon (Ch 17),13,50
-Morva (Ch 20),6,85
-Orson (Ch 5x),3,10
-Valter (Ch 15),2,5
-Selena (Ch 10B +ACY- 13B),10,40
-Valter (Prologue),2,5
-Breguet (Ch 1),0,5
-Bone (Ch 2),0,5
-Bazba (Ch 3),1,10
-Entombed (Ch 4),1,5
-Saar (Ch 5),1,5
-Novala (Ch 6),8,50
-Murray (Ch 7),2,5
-Tirado (Ch 8),3,15
-Binks (Ch 9A),2,10
-Pablo (Ch 10A),8,50
-Maelduin (Ch 12A),2,10
-Aias (Ch 13A),2,5
-Carlyle (Ch 14A),5,30
-Caellach (Ch 15),3,5
-Pablo (Ch 13A),8,50
-0,0,0
-Gorgon (Ch 18),10,65
-Riev (Ch 19 +ACY- 20),10,45
-0,0,0
-0,0,0
-Gheb (Ch 9B),2,5
-Beran (Ch 10B),3,15
-Cyclops (Ch 12B),2,5
-Wight (Ch 11A),2,5
-Deathgoyle (Ch 11B),3,5
-Entombed (Monster Boss),3,5
-0,0,0
-0,0,0
-0,0,0
-+AC0-0,0,0
-Hunter (Ch 16),3,10
-+AC0-0,0,0
-Brigand,0,0
-0,0,0
-O'Neill (Prologue),0,5
-Glen (Cutscene),0,0
-Zonta (Ch 5x),1,5
-Vigarde (Ch 14B),5,15
-Lyon (Ch Final),20,20
-Orson (Ch 16),3,5
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-Grado Soldier (Special),0,0
-Grado Soldier 1 (Normal),0,0
-Grado Soldier 2,0,0
-Grado Soldier 3,0,0
-Grado Soldier 4,0,0
-Grado Soldier 5,0,0
-Grado Soldier 6,0,0
-Grado Soldier 7,0,0
-Grado Soldier 8,0,0
-Grado Soldier 9,0,0
-Grado Soldier 10 (Duessel's),0,0
-Grado Soldier 11 (Duessel's),0,0
-Grado Soldier 12 (Duessel's),0,0
-Grado Soldier 13,0,0
-Grado Remnant 1 (Main),0,0
-Cutthroat,0,0
-Grado Remnant 2 (Cutscene and C16 only?),0,0
-Grado Remnant 3 (C16 only?),0,0
-Grado Remnant 4 (C16 only?),0,0
-Wraith (Sage),0,0
-Wraith (Swords),0,0
-Wraith (Axes),0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-Mercenary (C9A),0,0
-Mercenary (C10A),0,0
-Merc Remnant (C13A),0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Monster,0,0
-Demon King,0,0
-0,0,0
-Frelian,0,0
-Frelian,0,0
-0,0,0
-0,0,0
-0,0,0
-Fado (Renais),0,0
-0,0,0
-Hayden (Frelia),0,0
-Mansel (Rausten),0,0
-Klimt (Carcino),0,0
-Dara (Caer Pelyn),0,0
-Ismaire (Jehanna),0,0
-Pegasus Messenger,0,0
-Rausten Knight,0,0
-Rausten Knight,0,0
-(Untested Beyond this point),0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
-0,0,0
+01 Serini,5,30
+02 Zoey,1,8
+03 Theo,0,5
+04 Tyn,0,8
+05 Kuri,0,3
+06 Rayse,0,15
+07 Kalcass,0,4
+08 Wemble,3,30
+09 Romeo,0,5
+0A Michelle,3,70
+0B Dobrilo,5,30
+0C Abigail,0,1
+0D Filna,-5,25
+0E Emilia,0,0
+0F Indio,0,1
+10 Eimhir,1,13
+11 Javeda,3,15
+12 Ilta,3,30
+13 Tiche,4,25
+14 Rena,0,0
+15 Marshall,3,30
+16 Oswald,-1,2
+17 Nahul,0,0
+18 Shuyev,2,30
+19 Kashil,2,7
+1A Tabitha,10,30
+1B Harald,3,30
+1C Kessler,3,8
+1D Fabian,8,20
+1E Myrrh,0,0
+1F Knoll,0,0
+20 Joshua,0,0
+21 Apolonia,0,0
+22 Tana,0,0
+23 Lyon,0,0
+24 Roppola,6,0
+25 Burk,0,0
+26 Breoca,0,0
+27 Alistair,0,0
+28 Riev,0,0
+29 Ekalavya,3,8
+2A Fado,0,0
+2B Ismaire,0,0
+2C Kedge,0,0
+2D Serini,0,0
+2E Enemy,0,0
+2F Enemy,0,0
+30 Enemy,0,0
+31 Enemy,0,0
+32 Enemy,0,0
+33 Enemy,0,0
+34 Enemy,0,0
+35 Enemy,0,0
+36 Enemy,0,0
+37 Enemy,0,0
+38 Enemy,0,0
+39 Enemy,0,0
+3A Enemy,0,0
+3B Phantom,0,0
+3C Swap,0,0
+3D Summonern,0,0
+3E Phantom,0,0
+3F Phantom,0,0
+40 Lyon,0,0
+41 Morva,0,0
+42 Roppola,0,0
+43 Alistair,10,30
+44 Breoca,20,0
+45 Alistair,0,0
+46 Anszt,0,0
+47 Roarke,7,30
+48 Stim,3,0
+49 Monster,0,0
+4A Tael,0,0
+4B Caigan,2,0
+4C Yevan,0,0
+4D Nachum,0,0
+4E Rakesh,0,0
+4F Hetan,0,0
+50 Punam,8,0
+51 Hnaef,0,0
+52 Rigsrad,0,0
+53 Ekalavya,0,0
+54 Hetan,0,0
+55 Devrali,0,0
+56 Monster,0,0
+57 Riev,0,0
+58 Talbot,0,0
+59 Enemy,0,0
+5A Kulm,9,0
+5B Miranker,8,0
+5C Monster,0,0
+5D Monster,0,0
+5E Monster,0,0
+5F Monster,0,0
+60 Enemy,0,0
+61 Enemy,0,0
+62 Enemy,0,0
+63 Enemy,0,0
+64 Hunter,0,0
+65 Bandit,0,0
+66 Bandit,0,0
+67 Bandit,0,0
+68 Fent,0,0
+69 Burk,0,0
+6A Alik,0,0
+6B Victor,22,0
+6C Lyon,0,0
+6D [_B][_a][_b][_o][_u][_c][_h][_e],0,0
+6E Enemy,0,0
+6F Enemy,0,0
+70 Enemy,0,0
+71 Enemy,0,0
+72 Enemy,0,0
+73 Enemy,0,0
+74 Enemy,0,0
+75 Enemy,0,0
+76 Enemy,0,0
+77 Enemy,0,0
+78 Enemy,0,0
+79 Enemy,0,0
+7A Enemy,0,0
+7B Enemy,0,0
+7C Enemy,0,0
+7D Enemy,0,0
+7E Spectral,20,0
+7F Bandit,0,0
+80 Bandit,0,0
+81 Bandit,0,0
+82 Bandit,0,0
+83 Rebel,0,0
+84 Shekhin,0,0
+85 Rebel,0,0
+86 Shekhin,0,0
+87 Shekhin,0,0
+88 Bandit,0,0
+89 Bandit,0,0
+8A Bandit,0,0
+8B Bandit,0,0
+8C Bandit,0,0
+8D Remnant,0,0
+8E Bernazio,0,0
+8F Remnant,0,0
+90 Remnant,0,0
+91 Remnant,0,0
+92 Enemy,0,0
+93 Enemy,0,0
+94 Enemy,0,0
+95 Enemy,0,0
+96 Enemy,0,0
+97 Enemy,0,0
+98 Enemy,0,0
+99 Enemy,0,0
+9A Enemy,0,0
+9B Enemy,0,0
+9C Enemy,0,0
+9D Enemy,0,0
+9E Enemy,0,0
+9F Enemy,0,0
+A0 Enemy,0,0
+A1 Enemy,0,0
+A2 Enemy,0,0
+A3 Enemy,0,0
+A4 Enemy,0,0
+A5 Enemy,0,0
+A6 Enemy,0,0
+A7 Mercenary,0,0
+A8 Serini,0,0
+A9 Remnant,0,0
+AA Monster,0,0
+AB Monster,0,0
+AC Monster,0,0
+AD Monster,0,0
+AE Monster,0,0
+AF Monster,0,0
+B0 Zoey,0,0
+B1 Theo,0,0
+B2 Tyn,0,0
+B3 Monster,0,0
+B4 Monster,0,0
+B5 Monster,0,0
+B6 Monster,0,0
+B7 Monster,0,0
+B8 Monster,0,0
+B9 Monster,0,0
+BA Monster,0,0
+BB Monster,0,0
+BC Monster,0,0
+BD Monster,0,0
+BE Daemon Lord,0,0
+BF Enemy,0,0
+C0 Frelian,0,0
+C1 Frelian,0,0
+C2 Enemy,0,0
+C3 Enemy,0,0
+C4 Enemy,0,0
+C5 Fado,0,0
+C6 Enemy,0,0
+C7 Kedge,0,0
+C8 Mansel,0,0
+C9 Juvenal,0,0
+CA Meadow,0,0
+CB Ismaire,0,0
+CC Rena,0,0
+CD Rena,15,0
+CE Rausten,0,0
+CF Refugees,0,0
+D0 Enemy,0,0
+D1 Enemy,0,0
+D2 Enemy,0,0
+D3 Enemy,0,0
+D4 Enemy,0,0
+D5 Enemy,0,0
+D6 Enemy,0,0
+D7 Enemy,0,0
+D8 Enemy,0,0
+D9 Enemy,0,0
+DA Enemy,0,0
+DB Enemy,0,0
+DC Enemy,0,0
+DD Enemy,0,0
+DE Enemy,0,0
+DF Enemy,0,0
+E0 Enemy,0,0
+E1 Enemy,0,0
+E2 Enemy,0,0
+E3 Enemy,0,0
+E4 Enemy,0,0
+E5 Enemy,0,0
+E6 Enemy,0,0
+E7 Enemy,0,0
+E8 Enemy,0,0
+E9 Enemy,0,0
+EA Enemy,0,0
+EB Enemy,0,0
+EC Enemy,0,0
+ED Enemy,0,0
+EE Enemy,0,0
+EF Enemy,0,0
+F0 Enemy,0,0
+F1 Enemy,0,0
+F2 Enemy,0,0
+F3 Enemy,0,0
+F4 River Folk,0,0
+F5 River Folk,0,0
+F6 River Folk,0,0
+F7 River Folk,0,0
+F8 River Folk,0,0
+F9 Renais Cit.,0,0
+FA Renais Cit.,0,0
+FB Renais Cit.,0,0
+FC Citizen,0,0
+FD Gladiator,-5,0
+FE Wall,0,0
+FF Snag,0,0
