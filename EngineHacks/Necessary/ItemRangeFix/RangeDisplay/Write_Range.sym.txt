@@ -1,0 +1,14 @@
+NoRangeHalfword=$38
+WriteRange=$0100
+goto_r4=$F0
+BitfieldMagic=$3E
+BallistaCheck=$9A
+MaxBit=$50
+BitFound1=$5C
+MinBit=$7A
+BitFound2=$86
+EndRangeWrite=$E4
+IsBallista=$FC
+goto_r3=$EE
+BallistaMax=$F8
+BallistaMin=$F4

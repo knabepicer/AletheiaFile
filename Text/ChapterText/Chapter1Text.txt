@@ -1,0 +1,10 @@
+## Chapter1Title
+Ch 1: Another Day[X]
+
+## Chapter1ObjectiveDetail
+Seize the northwestern[N]
+village.[X]
+
+## Chapter1Objective
+Seize village[X]
+

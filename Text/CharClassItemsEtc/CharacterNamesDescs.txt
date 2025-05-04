@@ -1,0 +1,41 @@
+## SeriniName
+Serini[X]
+
+## SeriniDesc
+A Thessan captain and war hero.[N]
+All else is secondary to her duty.[X]
+
+## ZoeyName
+Zoey[X]
+
+## ZoeyDesc
+A youthful Thessan archer. Strives[N]
+to be kind in a cruel world.[X]
+
+## TheoName
+Theo[X]
+
+## TheoDesc
+A Thessan axeman. Boasts a keen[N]
+mind and a warm heart.[X]
+
+## Tyn
+Tyn[X]
+
+## TynDesc
+A Thessan rider. A man with focused[N]
+eyes and a burning soul.[X]
+
+## Fent
+Fent[X]
+
+## FentDesc
+A former mercenary and veteran of the[N]
+Traitor's War, turned to banditry.[X]
+
+## Bandit
+Bandit[X]
+
+## BanditDesc
+Displaced villagers, out-of-work soldiers[N]
+and other malcontents, seeking plunder.[X]
